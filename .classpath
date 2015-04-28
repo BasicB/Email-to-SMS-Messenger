@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/htmlunit-2.15-OSGi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/javaee.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/mailapi-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/quartz-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/quartz-jobs-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/simple-java-mail-v2.1-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/smslib-3.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bbaker13/Desktop/Text to Email/jars/smtp-1.4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
